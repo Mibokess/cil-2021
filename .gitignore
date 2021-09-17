@@ -1,0 +1,14 @@
+cil_data/test_images
+cil_data/training
+cil_data/sample_submission.csv
+
+cil-road-segmentation-2021.zip
+
+.ipynb_*
+.vscode
+__pycache__
+tools/__pycache__
+models/__pycache__
+cil_data/__pycache__
+
+CIL_Diagram.png
