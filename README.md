@@ -1,6 +1,6 @@
 # CIL 2021, Project 3 - Road Segmentation
 
-This repository was created for the course "Computational Intelligence Lab" at ETH ZÃrich. 
+This repository was created for the course "Computational Intelligence Lab" at ETH ZÃ¼rich. 
 It contains code used to predict where roads lie in given aerial images.  
 
 The code was written by the group 'Cillers' consisting of Mike Boss, Jonas Passweg and Jonathan Ehrat.
